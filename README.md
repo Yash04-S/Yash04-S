@@ -1,4 +1,4 @@
- # 👋 Hi, I’m @Yash04-S
+ # 👋 Hi, I’m @YasH04-s
 
 - 🎓 BTECH Student
 - 👀 I’m interested in Software Development, Data Science, Human-Computer Interaction, Cloud Computing etc.
